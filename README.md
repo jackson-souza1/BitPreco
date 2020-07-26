@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+API Utilizada: https://www.blockchain.com/pt/api/exchange_rates_api
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
